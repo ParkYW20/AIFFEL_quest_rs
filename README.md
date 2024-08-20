@@ -1,4 +1,5 @@
 # directory 구조
+```bash
 AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
@@ -37,4 +38,5 @@ AIFFEL_quest_rs
         ├── .ipynb
         └── README.md
         
-## git config
+
+```
