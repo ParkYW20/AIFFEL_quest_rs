@@ -41,3 +41,4 @@ AIFFEL_quest_rs
         
 
 ```
+'.git-credentials' be added via CLI !
